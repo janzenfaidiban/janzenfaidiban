@@ -20,6 +20,7 @@
 ### 🛠️ Current Focus & Projects
 
 * **[100 FREE Websites 2026](https://100websitegratis.nokensoft.com/)**: Spearheading an initiative to digitize local MSMEs and communities in Papua.
+* **[Easy Syntax](https://easysyntax.github.io)**: Preparing the team members and the online systems.
 * **[YPMD-IRJA](https://ypmd-irja.org)**: Architecting the digital archive and online media platform for the *Kabar dari Kampung (KdK)* bulletin.
 * **[Bahtraku](https://bahtraku.org)**: Developing a multi-language translation platform for local ethnic languages across Indonesia.
 * **GovTech CMS**: Building a standardized portal system for local government agencies (KOMINFO), initiated with the Jayapura Regency.
@@ -30,6 +31,6 @@
 
 ### 📫 Connect with me
 * **Web:** [nokensoft.com](https://nokensoft.com)
-* **Web:** [janzenfaidiban.github.io](https://janzenfaidiban.github.io)
+* **Personal Web:** [janzenfaidiban.github.io](https://janzenfaidiban.github.io)
 * **Email:** info@nokensoft.com
 * **Location:** Jayapura, Papua 
