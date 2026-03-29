@@ -26,13 +26,6 @@
 
 ---
 
-### 💻 Tech Stack
-
-* **Frameworks:** Laravel, Livewire, Alpine.js, Tailwind CSS (TALL Stack)
-* **Mobile/Desktop:** Flutter, Capacitor, NativePHP
-* **Methodology:** Vibe Coding, AI-Assisted Development, Brutalist Design
-
----
 
 ### 📫 Connect with me
 * **Web:** [nokensoft.com](https://nokensoft.com)
