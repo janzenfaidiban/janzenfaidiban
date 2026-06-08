@@ -6,13 +6,13 @@
 
 ### 🚀 Leadership & Initiatives
 
-* **CEO & Co-Founder, [Nokensoft](https://nokensoft.com)** (PT Noken Inovasi Teknologi Informasi)
+* **CEO & Founder, [Nokensoft](https://nokensoft.com)** (PT Noken Inovasi Teknologi Informasi)
     * Leading a premier IT consultancy with 10+ years of experience in digital system development.
 * **Founder & Lead Instructor, [SaCode Community](https://sacode.web.id)**
     * Building the next generation of Papuan developers through hands-on coding education.
 * **Computer Literacy Coordinator, [SAGU Foundation](https://sagufoundation.org)**
     * Bridging the digital divide through fundamental IT training.
-* **Co-Founder, [EasySyntax](https://easysyntax.github.io)**
+* **Founder, [EasySyntax](https://easysyntax.github.io)**
     * Pioneering "Vibe Coding"—the intersection of natural language and AI-driven software architecture.
 
 ---
