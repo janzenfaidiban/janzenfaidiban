@@ -1,36 +1,5 @@
-# Janzen Faidiban
-
-**Tech Founder | Full-Stack Developer | IT Educator** Driving digital transformation through **Vibe Coding** and community empowerment.
-
----
-
-### 🚀 Leadership & Initiatives
-
-* **CEO & Founder, [Nokensoft](https://nokensoft.com)** (PT Noken Inovasi Teknologi Informasi)
-    * Leading a premier IT consultancy with 10+ years of experience in digital system development.
-* **Founder & Lead Instructor, [SaCode Community](https://sacode.web.id)**
-    * Building the next generation of Papuan developers through hands-on coding education.
-* **Computer Literacy Coordinator, [SAGU Foundation](https://sagufoundation.org)**
-    * Bridging the digital divide through fundamental IT training.
-* **Founder, [EasySyntax](https://easysyntax.github.io)**
-    * Pioneering "Vibe Coding"—the intersection of natural language and AI-driven software architecture.
-
----
-
-### 🛠️ Current Focus & Projects
-
-* **[100 FREE Websites 2026](https://100websitegratis.nokensoft.com/)**: Spearheading an initiative to digitize local MSMEs and communities in Papua.
-* **[Easy Syntax](https://easysyntax.github.io)**: Preparing the team members and the online systems.
-* **[YPMD-IRJA](https://ypmd-irja.org)**: Architecting the digital archive and online media platform for the *Kabar dari Kampung (KdK)* bulletin.
-* **[Bahtraku](https://bahtraku.org)**: Developing a multi-language translation platform for local ethnic languages across Indonesia.
-* **GovTech CMS**: Building a standardized portal system for local government agencies (KOMINFO), initiated with the Jayapura Regency.
-
-
----
-
-
 ### 📫 Connect with me
 * **Web:** [nokensoft.com](https://nokensoft.com)
 * **Personal Web:** [janzenfaidiban.github.io](https://janzenfaidiban.github.io)
 * **Email:** info@nokensoft.com
-* **Location:** Jayapura, Papua 
+* **Location:** Jayapura, Papua/New Guinea Islands 
